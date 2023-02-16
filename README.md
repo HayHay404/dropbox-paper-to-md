@@ -5,6 +5,8 @@ A simple converter to download all your Dropbox Paper documents as Markdown file
 ```bash
 $ git clone
 $ cd paper-to-md
+$ python3 -m venv venv
+$ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
